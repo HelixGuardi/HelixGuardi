@@ -21,5 +21,3 @@ Looking forward to connecting with other tech enthusiasts and creating impactful
 📫 Reach me at: <br>
 <a href="https://www.linkedin.com/in/victorhugoguardiolapereira/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-<a href="#" onclick="copyEmail()" title="Copy email">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
