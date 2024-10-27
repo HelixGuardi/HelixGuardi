@@ -22,7 +22,7 @@ Looking forward to connecting with other tech enthusiasts and creating impactful
 <a href="https://www.linkedin.com/in/victorhugoguardiolapereira/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 
-## My Skills Include
+## Skills In Progress
 
 <h4> Languages </h4>
 <span> 
