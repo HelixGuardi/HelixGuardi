@@ -19,7 +19,7 @@ I'm a web development student currently enhancing my skills through the Ironhack
 Looking forward to connecting with other tech enthusiasts and creating impactful solutions!
 
 📫 Reach me at: <br>
-<a href="https://www.linkedin.com/in/victorhugoguardiolapereira/">
+<a href="https://www.linkedin.com/in/victorhugo-dev/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 
 ## Skills In Progress
