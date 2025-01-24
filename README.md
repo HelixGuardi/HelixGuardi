@@ -4,23 +4,25 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px">&nbsp;***About me***
 
-I'm a web development student currently enhancing my skills through the Ironhack Web Development Bootcamp. I’m delving into both front-end and back-end technologies to become a versatile, full-stack developer ready to tackle real-world challenges.
+I'm a web developer passionate about creating efficient, user-friendly, and impactful web solutions. After completing the Ironhack Web Development Bootcamp, I've gained solid experience in both front-end and back-end technologies, ready to tackle real-world challenges as a full-stack developer.
 
-🌱 Currently learning ...
-  - Frontend: Advanced JavaScript, React.js
-  - Backend: Building APIs with Node.js, Express.js
+🌟 **Skills & Expertise**:
+  - **Frontend:** React.js, JavaScript ES6+, HTML5, CSS3, Bootstrap
+  - **Backend:** Node.js, Express.js, RESTful APIs
+  - **Others:** JSON Server, Git, Responsive Design
 
-💼 Eager to collaborate on open-source projects or innovative web development ventures.
+💼 Always eager to collaborate on open-source projects, innovative ideas, and dynamic web applications.
 
-✅ Feel free to reach out if you’d like to brainstorm, solve challenges, or discuss new ideas.
+✅ Feel free to reach out if you'd like to brainstorm, solve challenges, or explore new opportunities.
 
-🎶 Outside of tech, I enjoy creating playlists 🎧, diving into podcasts 🎙️, and staying active with calisthenics 💪.
+🎶 Outside of tech, I enjoy curating playlists 🎧, exploring podcasts 🎙️, and staying active with calisthenics 💪.
 
-Looking forward to connecting with other tech enthusiasts and creating impactful solutions!
+Let's connect and create impactful solutions together!
 
 📫 Reach me at: <br>
 <a href="https://www.linkedin.com/in/victorhugo-dev/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+</a>
 
 ## Skills In Progress
 
