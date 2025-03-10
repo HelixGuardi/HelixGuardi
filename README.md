@@ -7,7 +7,7 @@
 I'm a web developer passionate about creating efficient, user-friendly, and impactful web solutions. After completing the Ironhack Web Development Bootcamp, I've gained solid experience in both front-end and back-end technologies, ready to tackle real-world challenges as a full-stack developer.
 
 🌟 **Skills & Expertise**:
-  - **Frontend:** React.js, JavaScript ES6+, HTML5, CSS3, Bootstrap
+  - **Frontend:** React.js, JavaScript ES6+, HTML5, CSS3
   - **Backend:** Node.js, Express.js, RESTful APIs
   - **Others:** JSON Server, Git, Responsive Design
 
